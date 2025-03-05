@@ -7,7 +7,7 @@ Escribe una función en Node.js que valide si una contraseña cumple con los sig
 - Debe contener al menos un número.
 - No puede contener espacios en blanco.
 
-**Tiempo máximo: 20 minutos**
+**Tiempo estimado: 20 minutos**
 
 # 2. Challenge II: NestJS + MongoDB
 
@@ -28,4 +28,4 @@ Escribe una función en Node.js que valide si una contraseña cumple con los sig
   - Obtener la lista de usuarios registrados.
 3. Implementar el la función que valida la contraseña en `users.service.ts`.
 
-**Tiempo máximo: 1 hora**
+**Tiempo estimado: 1 hora**
