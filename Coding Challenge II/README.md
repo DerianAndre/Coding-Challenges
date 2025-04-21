@@ -1,13 +1,14 @@
 
-# 1. Challenge I: Validación de Emails y Formato de Nombres
+# 1. Challenge I: Ract: Validación de input
 
 ## Objetivo
-Escribe una función en Node.js que valide si un email y un nombre cumplen con los siguientes requisitos:
+1. Escribe una función que valide si un email:
 - El email debe tener un formato válido (usuario@dominio.com).
-- El nombre debe empezar con mayúscula y no puede contener números ni caracteres especiales.
-- El nombre no puede tener más de 50 caracteres.
+- El email debe contener al menos 10 caracteres.
+2. Crear un input field que utilice la función de validación
+3. Si el input no es válido que tenga un borde rojo de lo contrario un borde verde.
 
-**Tiempo estimado: 20 minutos**
+**Tiempo estimado: 30 minutos**
 
 # 2. Challenge II: NestJS + MongoDB
 
