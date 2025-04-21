@@ -2,7 +2,7 @@
 # 1. Challenge I: Ract: Validación de input
 
 ## Objetivo
-1. Escribe una función que valide si un email:
+1. Escribe una función que valide un email:
 - El email debe tener un formato válido (usuario@dominio.com).
 - El email debe contener al menos 10 caracteres.
 2. Crear un input field que utilice la función de validación
