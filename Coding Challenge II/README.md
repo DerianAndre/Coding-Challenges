@@ -8,7 +8,7 @@
 2. Crear un input field que utilice la función de validación
 3. Si el input no es válido que tenga un borde rojo de lo contrario un borde verde.
 
-**Tiempo estimado: 30 minutos**
+**Tiempo máximo estimado: 30 minutos**
 
 # 2. Challenge II: NestJS + MongoDB
 
@@ -30,4 +30,4 @@ Implementar los endpoints en `products.service.ts` para:
    - Obtener la lista de productos filtrados por **categoría** y **rango de precio**.
 3. Validar que el precio no sea negativo y que el stock sea mayor o igual a 0.
 
-**Tiempo estimado: 1 hora**
+**Tiempo máximo estimado: 1 hora**
